@@ -2,13 +2,8 @@
 layout: default
 ---
 
-```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-[Link to another page](./another-page.html).
+My background is in physics and philosophy. I have a BSc and MSc in physics from Acadia Universty and the University of Toronto, respectively. I also have a BA and Ph.D in philosophy from Acadia University and the University of Western Ontario, respectively. I had planned to go into academia, however recent structural changes in academia have resulted in my choosing another career path. I now plan to get into software development.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
@@ -21,7 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
-```
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -36,7 +31,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-```
+
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -113,7 +108,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-```
+
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
