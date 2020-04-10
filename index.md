@@ -14,14 +14,20 @@ I decided to start with Python (even though I learned some Java in university) s
 
 I decided to start learning Python using _Python Crash Course_ by Eric Matthes and _The Python Workbook_ by Ben Stephenson. You can find a finished version (aside from music) of my space invaders clone and solutions to exercises from _The Python Workbook_ in my respositories. Below is my overall learning plan for Python.
 
+
 Finished
+
 1. _Python Crash course_ by Eric Matthes
 2. _The Python Workbook_ by Ben Stephenson
 
+
 Current
+
 3. LinkedIn Learning - _Become a Python Developer_ learning path
 
+
 Next 
+
 4. LinkedIn Learning - _Faster Python Code_ course
 5. _Python 3 Object-Oriented Programming_ by Dusty Phillips
 6. _Data Structures and Algorithims in Python_ by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
@@ -33,12 +39,17 @@ Next
 12. _Effective Python_ by Brett Slatkin
 
 
+
 ## OSSU
 
 I've only just decided to go through the OSSU cirriculum alongside Python. I also decided to start at the beginning since it will help cement what I've already learned.
 
+
 Current
+
 1. _Python for Everyone_
 
+
 Next
+
 2. _Fundamentals of Computing_
