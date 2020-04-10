@@ -16,27 +16,24 @@ I decided to start learning Python using _Python Crash Course_ by Eric Matthes a
 
 
 Finished
-
-1. _Python Crash course_ by Eric Matthes
-2. _The Python Workbook_ by Ben Stephenson
+* _Python Crash course_ by Eric Matthes
+* _The Python Workbook_ by Ben Stephenson
 
 
 Current
-
-3. LinkedIn Learning - _Become a Python Developer_ learning path
+* LinkedIn Learning - _Become a Python Developer_ learning path
 
 
 Next 
-
-4. LinkedIn Learning - _Faster Python Code_ course
-5. _Python 3 Object-Oriented Programming_ by Dusty Phillips
-6. _Data Structures and Algorithims in Python_ by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
-7. _Learning Python_ by Mark Lutz
-8. _Mastering Python Design Patterns_ by Kamon Ayeva and Sakis Kasampalis
-9. _Python Cookbook_ by David Beazley, Brian K. Jones
-10. _Mastering Object-Oriented Python_ by Steven F. Lott
-11. _Fluent Python_ by Luciano Ramalho
-12. _Effective Python_ by Brett Slatkin
+* LinkedIn Learning - _Faster Python Code_ course
+* _Python 3 Object-Oriented Programming_ by Dusty Phillips
+* _Data Structures and Algorithims in Python_ by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
+* _Learning Python_ by Mark Lutz
+* _Mastering Python Design Patterns_ by Kamon Ayeva and Sakis Kasampalis
+* _Python Cookbook_ by David Beazley, Brian K. Jones
+* _Mastering Object-Oriented Python_ by Steven F. Lott
+* _Fluent Python_ by Luciano Ramalho
+* _Effective Python_ by Brett Slatkin
 
 
 
@@ -44,12 +41,9 @@ Next
 
 I've only just decided to go through the OSSU cirriculum alongside Python. I also decided to start at the beginning since it will help cement what I've already learned.
 
-
 Current
-
-1. _Python for Everyone_
+* _Python for Everyone_
 
 
 Next
-
-2. _Fundamentals of Computing_
+* _Fundamentals of Computing_
