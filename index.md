@@ -16,7 +16,7 @@ I decided to start learning Python using _Python Crash Course_ by Eric Matthes a
 
 
 Finished
-* _Python Crash course_ by Eric Matthes
+* _Python Crash Course_ by Eric Matthes
 * _The Python Workbook_ by Ben Stephenson
 
 
