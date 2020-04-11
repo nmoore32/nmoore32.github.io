@@ -41,9 +41,11 @@ Next
 
 I've only just decided to go through the OSSU cirriculum alongside Python. I also decided to start at the beginning since it will help cement what I've already learned.
 
-Current
-* _Python for Everyone_
+Finsihed
+* _Python for Everybody_
 
+Current
+* _Fundamentals of Computing_
 
 Next
-* _Fundamentals of Computing_
+* _Introduction to Computer Science and Programming using Python_
