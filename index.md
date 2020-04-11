@@ -49,4 +49,5 @@ Current
   - Supplemented with _Introduction to Computation and Programming Using Python_ by John V. Guttag
 
 Next
-* _How to Code - Simple Data_
+- _How to Code - Simple Data_
+  - Supplemented with _How to Design Programs_ by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi
