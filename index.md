@@ -45,7 +45,8 @@ Finished
 * _Python for Everybody_
 
 Current
-* _Fundamentals of Computing_
+- _Fundamentals of Computing_
+  - Supplemented with _Introduction to Computation and Programming Using Python_ by John V. Guttag
 
 Next
-* _Introduction to Computer Science and Programming using Python_
+* _How to Code - Simple Data_
