@@ -7,7 +7,7 @@ My background is in physics and philosophy. I have a BSc and MSc in physics from
 
 # My Software Development Journey
 
-I decided to start with Python (even though I learned some Java in university) since it allows me to focus more on learning concepts rather than syntax. But I'm also really interested in computer science and so have decided to work through Open Source Society University [OSSU](https://github.com/ossu/computer-science) Computer Science education path. I'll keep this site updated with my progress on both routes.
+I decided to start with Python (even though I learned some Java in university) since it allows me to focus more on learning concepts rather than syntax. But I'm also really interested in computer science and so have decided to work through Open Source Society University ([OSSU](https://github.com/ossu/computer-science)) Computer Science education path. I'll keep this site updated with my progress on both routes.
 
 
 ## Python 
