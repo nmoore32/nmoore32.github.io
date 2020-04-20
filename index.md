@@ -45,7 +45,7 @@ Finished
 * [_Python for Everybody_](https://www.py4e.com/)
 
 Current
-- [_Fundamentals of Computing_](https://www.coursera.org/specializations/computer-fundamentals)
+- [_Fundamentals of Computing_](https://www.coursera.org/specializations/computer-fundamentals) (Consists of 3 two part courses)
   - Supplemented with [_Introduction to Computation and Programming Using Python_](https://www.amazon.ca/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?crid=2OLQYN2VFSRKK&keywords=introduction+to+computation+and+programming+using+python&qid=1586715285&sprefix=introduction+to%2Caps%2C168&sr=8-1) by John V. Guttag
 
 Next
